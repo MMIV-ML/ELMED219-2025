@@ -67,7 +67,7 @@ The objective and content of the course address: The computational mindset, imag
 |                             | *Arvid Lundervold*                                                                     |
 | 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
 |                             | *Arvid Lundervold*                                                              |
-|  **WEEK 5:<br>Wed, Jan 29**  |                                                                                        |
+|  **WEEK 5:<br>Tue, Jan 28**  |                                                                                        |
 | 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with BMED365)                                  |
 |                             | *Arvid Lundervold / Ben Bjørsvik*                                                      |
 | **Thu, Jan 30**   |                                                                                        |
