@@ -20,11 +20,11 @@ The objective and content of the course address: The computational mindset, imag
 
 - This repository contains most of the course material. Students enrolled in the course will also find some practical information at [MittUiB](https://mitt.uib.no/courses/45080).
 
-- On your own, you are encouraged to spend approximately four hours completing at least one DataCamp course (remember to use the link on MittUiB for free access to DataCamp). Which DataCamp course you're encouraged to do depends on your previous programming experience:<br>
+<!-- - On your own, you are encouraged to spend approximately four hours completing at least one DataCamp course (remember to use the link on MittUiB for free access to DataCamp). Which DataCamp course you're encouraged to do depends on your previous programming experience:<br>
   - No Python programming experience? Complete the course [Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science)<br>
   - Know some Python, but no machine learning? Complete the course [Supervised Learning with scikit-learn](https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn)<br>
   - Know the fundamentals of machine learning in Python? Can you pass the *Machine Learning Fundamentals Assessment*? Complete the course [Biomedical Image Analysis in Python](https://learn.datacamp.com/courses/biomedical-image-analysis-in-python)   
-
+-->
 -  For **academic questions** about the course, contact course coordinator [Arvid Lundervold](https://www.uib.no/en/persons/Arvid.Lundervold) (UiB).
 
 - For **practical or administrative inquiries**, contact the Studies Section at the Department of Biomedicine at studie.biomed@uib.no
@@ -43,33 +43,33 @@ The objective and content of the course address: The computational mindset, imag
 | _On your own_               | Get an [overview of the course](https://docs.google.com/presentation/d/e/2PACX-1vRs-_1Tr_iXzIfy8207VlKuBjr_hCIpQqrI65YM9Q6TcQMUt4R-4aPVPzfL6fwDkmB8UkcPyfyiL9TU/pub?start=false&loop=false&delayms=3000); installation of software and/or test out Google Colab   |
 |                             | Follow the instructions at [**setup.md**](./setup.md) and  [MittUiB](https://mitt.uib.no/courses/45080)                |
 | **WEEK 2:<br> Mon, Jan 6**   |                                                                                        |
-| 10:15-14:00<br>BB Hist 1    | Information [About the course](https://docs.google.com/presentation/d/e/2PACX-1vSWy5OFMCYXF74CveeTSkEhuL1zwhKUFVe8Y-_gya6h4RfM7Ce6RP8XifS4QleOo7cPrjZOCdRu_IfW/pub?start=false&loop=false&delayms=3000) <br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vS5O7UsFk9c9-cS2KBTDxPq2MPdSjCa6z1RWQ8cPvWqtiQOkIpvFnPdZgccAbVr8cPAyOlLwuijHbPX/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI](https://docs.google.com/presentation/d/e/2PACX-1vQeoCzJLs1ljzFROOLjvzhyB3MZ9bCRPeVk1WAT3gY8gBO3W70Rfxxugfue198wIwFTyajvBzbTn-Qr/pub?start=false&loop=false&delayms=3000)    |
-|                             | *Arvid Lundervold*                                                                     |                                |
+| 10:15-14:00<br>BB Hist 1    | Information [About the course](https://docs.google.com/presentation/d/e/2PACX-1vSWy5OFMCYXF74CveeTSkEhuL1zwhKUFVe8Y-_gya6h4RfM7Ce6RP8XifS4QleOo7cPrjZOCdRu_IfW/pub?start=false&loop=false&delayms=3000) <br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vS5O7UsFk9c9-cS2KBTDxPq2MPdSjCa6z1RWQ8cPvWqtiQOkIpvFnPdZgccAbVr8cPAyOlLwuijHbPX/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI]() <br> Healthcare innovation   |
+|                             | *Arvid and Alexander Lundervold*                                                                     |                                |
 | **Wed, Jan 8**    |                                                                                        |
-| 14:15-15:00<br>BB Hist 1    | [SW-installation](./setup.md)<br> [Tools](https://docs.google.com/presentation/d/e/2PACX-1vRdRU-f2zRfXkuTjIu2xq1tBig-cR2_gauXl3GlQhhB8Yh68wV5qzkySJWHOhU3dfcrNCNBhdZfxSUT/pub?start=false&loop=false&delayms=3000), [[teams](https://docs.google.com/presentation/d/e/2PACX-1vRc51VLi_fbENjJxXWjKg9i8F05IRoDl7TWmXGqbOc-AnmyOS_VaonCzgSOsT0aAgfH1lvHzc2y_F-F/pub?start=false&loop=false&delayms=3000)] and [project](./Project)            |
-|                             | *Arvid Lundervold*                                                     |
-| 15:15-16:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) <br> [Machine learning](https://docs.google.com/presentation/d/e/2PACX-1vQN5LeGJ_lafM2zrZx5Fartv8IEVKn6oXbMIhVI-7V_J-8Lur5ZJaVm2zK9zpcuh5oD0u0JYq-UYMmy/pub?start=false&loop=false&delayms=60000#slide=id.p)             |
-|                             | *Arvid Lundervold*                                                               |
+| 14:15-15:00<br>BB Hist 1    | [SW-installation](./setup.md)<br> [Tools](https://docs.google.com/presentation/d/e/2PACX-1vRdRU-f2zRfXkuTjIu2xq1tBig-cR2_gauXl3GlQhhB8Yh68wV5qzkySJWHOhU3dfcrNCNBhdZfxSUT/pub?start=false&loop=false&delayms=3000), [[teams](https://docs.google.com/presentation/d/e/2PACX-1vRc51VLi_fbENjJxXWjKg9i8F05IRoDl7TWmXGqbOc-AnmyOS_VaonCzgSOsT0aAgfH1lvHzc2y_F-F/pub?start=false&loop=false&delayms=3000)]             |
+|                             | *Arvid and Alexander Lundervold*                                                     |
+| 15:15-16:00<br>BB Hist 1    | [About the course project](./Project)             |
+|                             | *Arvid and Alexander Lundervold*                                                               |
 | **Fri, Jan 10**    |                                                                                                 |
-| 10:15-11:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML) cont.        |
-|                             | *Arvid Lundervold*                                                      |
-| 11:15-13:00<br>BB Hist 1    | [LAB 0: Network science and patient similarity networks (PSN)](./Lab0-ML) <br> [Lab 1: Brain imaging (mpMRI) in glioma](./Lab1-mpMRI-glioma)                                                                                           |
-|                             | *Arvid Lundervold*                                                                     |
+| 10:15-12:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)        |
+|                             | *Arvid and Alexander Lundervold*                                                      |
+| 12:15-13:00<br>BB Hist 1    | [LAB 1: Network science and patient similarity networks (PSN)](./Lab0-ML)                                                                                         |
+|                             | *Arvid and Alexander Lundervold*                                                                     |
 | **WEEK 3:<br>Tue, Jan 14**    |                                                                                       |
 | 09:15-13:00<br>BB Hist 1    | Crash-course in Python programming (with AI-assisted coding); recap of Lab0, Lab1     |
-|                             |  *Arvid Lundervold*                                                                     |
+|                             |  *Arvid and Alexander Lundervold*                                                                     |
 | **Fri, Jan 17**   |                                                                                                  |
 | 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
-|                             | *Arvid Lundervold*  / *Alexander S. Lundervold*                                        |
+|                             | *Arvid and Alexander Lundervold*                                        |
 | **WEEK 4:<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams (during the week)  |
 | **Tue, Jan 21**   |                                                                                        |
 | 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
-|                             | *Arvid Lundervold*                                                                     |
+|                             | *Arvid and Alexander Lundervold*                                                                     |
 | 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
-|                             | *Arvid Lundervold*                                                              |
+|                             | *Arvid and Alexander Lundervold*                                                              |
 |  **WEEK 5:<br>Tue, Jan 28**  |                                                                                        |
 | 08:15-10:00<br>BB Hist 1    | Project presentations by team  (jointly with BMED365)                                  |
-|                             | *Arvid Lundervold / Ben Bjørsvik*                                                      |
+|                             | *Arvid and Alexander Lundervold*                                                      |
 | **Thu, Jan 30**   |                                                                                        |
 | 16:00                       | Deadline for the Team Project Report - joint with BMED365 (hand in via MittUiB)        |
 |**Fri, Jan 31** | 
