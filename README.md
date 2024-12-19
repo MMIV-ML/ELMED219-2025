@@ -60,11 +60,11 @@ The objective and content of the course address: The computational mindset, imag
 |                             |  *Arvid and Alexander Lundervold*                                                                     |
 | **Fri, Jan 17**   |                                                                                                  |
 | 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
-|                             | *Arvid and Alexander Lundervold*                                        |
+|                             | *Arvid Lundervold*                                        |
 | **WEEK 4:<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams (during the week)  |
 | **Tue, Jan 21**   |                                                                                        |
 | 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI / Large Language Models](./Lab3-GenAI)                           |
-|                             | *Arvid and Alexander Lundervold*                                                                     |
+|                             | *Alexander Lundervold*                                                                     |
 | 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
 |                             | *Arvid and Alexander Lundervold*                                                              |
 |  **WEEK 5:<br>Tue, Jan 28**  |                                                                                        |
