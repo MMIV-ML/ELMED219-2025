@@ -13,6 +13,6 @@ Lab0-ML/Lab0-begin-python-pandas-medim/._assets
 Lab0-ML/Lab0-begin-python-pandas-medim/._kiwi_data
 Lab0-ML/Lab0-begin-python-pandas-medim/.vscode
 
-# Avoid interference with the ELMED219-2025 repo when using private notebooks for experimentation
-my_notebooks/
+# Avoid interference with the ELMED219-2025 repo when using private notebooks etc. for experimentation
+my_stuff/
 
