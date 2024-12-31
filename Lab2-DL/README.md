@@ -2,7 +2,7 @@
 
 This lab is part of our journey through the concepts and applications of deep learning in medicine and biomedical research.<br>
 Some of the material has inspiration from and links to the work of great educators and researchers in the field, e.g. [Grant Sanderson](https://www.3blue1brown.com/about), [Daniel Bourke](https://www.mrdbourke.com/about), and [Andrej Karpathy](https://karpathy.ai)<br>
-_update: 2024-01-10_
+_update: 2024-12-31_
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
 <img src="../assets/GPT-MedAI.png" width="600"><br>
@@ -11,7 +11,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 ## Slides 
 <in progress ...>
 
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vSI8YSJSTVkjTqF60tsipa54yNaFi9nLE08HasBwRpfyHNXG5wNo6YXPUC6pmGU73-EZAH2KdZGLyfQ/pub?start=false&loop=false&delayms=3000"><img src="./assets/Lab2_slide0.png"></a>
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vRyU9n7YY6vI6B0Al2S0W9rTt_l9CPvJ-ISgVsNa_b_5y6G7JTsLVYnZeejdakNmXrx7WMFoU8d7TEY/pub?start=false&loop=false&delayms=3000"><img src="./assets/Lab2_slide0.png"></a>
 
 -----
 
