@@ -77,7 +77,7 @@ All course materials are openly available in this GitHub repository. See also [B
 | 12:15-13:00<br>BB Hist 1    | [LAB 1: Network science and patient similarity networks (PSN)](./Lab0-ML)                                                                                         |
 |                             | *Arvid and Alexander Lundervold*                                                                     |
 | **WEEK 3:<br>Tue, Jan 14**    |                                                                                       |
-| 09:15-13:00<br>BB Hist 1    | Crash-course in AI-assisted innovation & Python programming; recap of Lab0, Lab1     |
+| 09:15-13:00<br>BB Hist 1    | AI-assisted innovation & Python programming; recap of Lab0, Lab1     |
 |                             |  *Arvid and Alexander Lundervold*                                                                     |
 | **Fri, Jan 17**   |                                                                                                  |
 | 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
