@@ -66,25 +66,23 @@ All course materials are openly available in this GitHub repository. See also [B
 | _On your own_               | Get an [overview of the course](https://docs.google.com/presentation/d/e/2PACX-1vRs-_1Tr_iXzIfy8207VlKuBjr_hCIpQqrI65YM9Q6TcQMUt4R-4aPVPzfL6fwDkmB8UkcPyfyiL9TU/pub?start=false&loop=false&delayms=3000); installation of software and/or test out Google Colab   |
 |                             | Follow the instructions at [**setup.md**](./setup.md) and  [MittUiB](https://mitt.uib.no/courses/50716)                |
 | **WEEK 2:<br> Mon, Jan 6**   |                                                                                        |
-| 10:15-14:00<br>BB Hist 1    | Information [About the course](https://docs.google.com/presentation/d/e/2PACX-1vSWy5OFMCYXF74CveeTSkEhuL1zwhKUFVe8Y-_gya6h4RfM7Ce6RP8XifS4QleOo7cPrjZOCdRu_IfW/pub?start=false&loop=false&delayms=3000) <br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vQdrVW4qt8doyqbxRiZwZNQmGUN1qfML7wP-jYxp4aOJI5B6g8wn4HYNjcJ18w93IUzQBg4yMngsbNl/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI]() <br> AI-driven innovation in healthcare  |
+| 10:15-14:00<br>BB Hist 1    | Information [About the course](https://docs.google.com/presentation/d/e/2PACX-1vSWy5OFMCYXF74CveeTSkEhuL1zwhKUFVe8Y-_gya6h4RfM7Ce6RP8XifS4QleOo7cPrjZOCdRu_IfW/pub?start=false&loop=false&delayms=3000) <br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vQdrVW4qt8doyqbxRiZwZNQmGUN1qfML7wP-jYxp4aOJI5B6g8wn4HYNjcJ18w93IUzQBg4yMngsbNl/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI]()  <br> &nbsp;- [SW-installation](./setup.md)<br> &nbsp;- [Tools](https://docs.google.com/presentation/d/e/2PACX-1vRdRU-f2zRfXkuTjIu2xq1tBig-cR2_gauXl3GlQhhB8Yh68wV5qzkySJWHOhU3dfcrNCNBhdZfxSUT/pub?start=false&loop=false&delayms=3000), [[teams](https://docs.google.com/presentation/d/e/2PACX-1vRc51VLi_fbENjJxXWjKg9i8F05IRoDl7TWmXGqbOc-AnmyOS_VaonCzgSOsT0aAgfH1lvHzc2y_F-F/pub?start=false&loop=false&delayms=3000)] 
 |                             | *Arvid and Alexander Lundervold*                                                                     |                                |
 | **Wed, Jan 8**    |                                                                                        |
-| 14:15-15:00<br>BB Hist 1    | [SW-installation](./setup.md)<br> [Tools](https://docs.google.com/presentation/d/e/2PACX-1vRdRU-f2zRfXkuTjIu2xq1tBig-cR2_gauXl3GlQhhB8Yh68wV5qzkySJWHOhU3dfcrNCNBhdZfxSUT/pub?start=false&loop=false&delayms=3000), [[teams](https://docs.google.com/presentation/d/e/2PACX-1vRc51VLi_fbENjJxXWjKg9i8F05IRoDl7TWmXGqbOc-AnmyOS_VaonCzgSOsT0aAgfH1lvHzc2y_F-F/pub?start=false&loop=false&delayms=3000)]             |
-|                             | *Arvid and Alexander Lundervold*                                                     |
-| 15:15-16:00<br>BB Hist 1    | [About the course project](./Project)             |
-|                             | *Arvid and Alexander Lundervold*                                                               |
+| 14:15-16:00<br>BB Hist 1    | AI-driven innovation in healthcare & [About the course project](./Project)                |
+|                             | *Arvid and Alexander Lundervold*                                                                     |                                |
 | **Fri, Jan 10**    |                                                                                                 |
 | 10:15-12:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)        |
 |                             | *Arvid and Alexander Lundervold*                                                      |
 | 12:15-13:00<br>BB Hist 1    | [LAB 1: Network science and patient similarity networks (PSN)](./Lab0-ML)                                                                                         |
 |                             | *Arvid and Alexander Lundervold*                                                                     |
 | **WEEK 3:<br>Tue, Jan 14**    |                                                                                       |
-| 09:15-13:00<br>BB Hist 1    | Crash-course in Python programming (with AI-assisted coding); recap of Lab0, Lab1     |
+| 09:15-13:00<br>BB Hist 1    | Crash-course in AI-assisted innovation & Python programming; recap of Lab0, Lab1     |
 |                             |  *Arvid and Alexander Lundervold*                                                                     |
 | **Fri, Jan 17**   |                                                                                                  |
 | 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
 |                             | *Arvid Lundervold*                                        |
-| **WEEK 4:<br>Team project**  |  Joint with BMED365 - Working on project in interdisciplinary teams (during the week)  |
+| **WEEK 4:<br>Team project**  |  Joint with BMED365 - Working on the course project in interdisciplinary teams (during the week)  |
 | **Tue, Jan 21**   |                                                                                        |
 | 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI and Large Language Models](.)                           |
 |                             | *Alexander Lundervold*                                                                     |
