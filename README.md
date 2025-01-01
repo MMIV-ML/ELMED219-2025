@@ -72,9 +72,9 @@ All course materials are openly available in this GitHub repository. See also [B
 | 14:15-16:00<br>BB Hist 1    | AI-driven innovation in healthcare & [About the course project](./Project)                |
 |                             | *Arvid and Alexander Lundervold*                                                                     |                                |
 | **Fri, Jan 10**    |                                                                                                 |
-| 10:15-12:00<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)        |
+| 10:15-11:30<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)        |
 |                             | *Arvid and Alexander Lundervold*                                                      |
-| 12:15-13:00<br>BB Hist 1    | [LAB 1: Network science and patient similarity networks (PSN)](./Lab0-ML)                                                                                         |
+| 11:45-13:00<br>BB Hist 1    | [LAB 1: Network science and patient similarity networks (PSN)](./Lab0-ML)                                                                                         |
 |                             | *Arvid and Alexander Lundervold*                                                                     |
 | **WEEK 3:<br>Tue, Jan 14**    |                                                                                       |
 | 09:15-13:00<br>BB Hist 1    | AI-assisted innovation & Python programming; recap of Lab0, Lab1     |
