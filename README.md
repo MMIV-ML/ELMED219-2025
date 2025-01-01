@@ -26,7 +26,7 @@ Through exercises and demonstrations, participants will work on practical applic
 Students will gain experience with Python programming, [Jupyter notebooks](https://docs.jupyter.org), modern AI tools like [ChatGPT](https://chatgpt.com), [Gemini](https://gemini.google.com), and [Claude](https://claude.ai), as well as cloud computing and [AI-assisted coding](https://github.com/resources/articles/ai/ai-coding-tools). Emphasis is placed on open science and reproducible research practices to prepare students for both academic and practical settings.
 
 #### Team project
-The course includes a team project where students collaborate to design and build an AI-driven solution to a real healthcare challenge. Teams will take their ideas from concept to prototype and present them as a potential healthcare startup.
+The course includes a [team project](./Project) where students collaborate to design and build an AI-driven solution to a real healthcare challenge. Teams will take their ideas from concept to prototype and present them as a potential healthcare startup.
 
 #### Why take this course?
 ELMED219 is an opportunity to gain valuable skills and insights into the use of AI in medicine and healthcare.
