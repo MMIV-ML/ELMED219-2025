@@ -11,7 +11,8 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _Hva menes med "nettverk-vitenskap"?_
 - _Hva karakteriserer et "patient similarity network" og hva kan det brukes til?_
 
-  
+or, try these prompts using the UiB-internal **https://chat.uib.no**
+
 ### Slides
 
 
