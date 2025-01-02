@@ -18,7 +18,7 @@ _TBA_
 | Notebook | 1-Click Notebook |
 |----------|-----------------|
 | [1.1-Simple_examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/1.1-Simple_examples.ipynb) - Constructs predictive models based on simple data sets. Provides hands-on introduction to basic ML ingredients and techniques. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()<br>[![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]() |
-| _More TBA_  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]() <br> [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()  
+| [2.1-PyCaret.ipynb]()  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]() <br> [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()  
 
 
 ## Machine learning in Python
