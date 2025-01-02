@@ -9,7 +9,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 
 - _Hva er grafteori og hvordan defineres en graf?_
 - _Hva menes med "nettverk-vitenskap"?_
-- _Hva karakyeriseres et "patient similarity network" og hva kan det brukes til?_
+- _Hva karakteriserer et "patient similarity network" og hva kan det brukes til?_
 
   
 ### Slides
