@@ -1,6 +1,7 @@
 # Introduction to Graph Theory and Complex Networks Analysis
 
-Last updated: 2023-12-29, A. Lundervold
+Last updated: 2024-01-02, A. Lundervold
+
 
 
 **Attribution**:
