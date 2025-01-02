@@ -1,59 +1,44 @@
 # Lab 0: Introduction to theory and tools for machine learning
 
-This lab will give a quick example-based introduction to basic ideas in **machine learning**, using Python and *scikit-learn*. <br> We will also introduce elements of **graph theory**, **network science**, and the concept of **patient similarity networks** (PSN) using *NetworkX* - a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+In this first lab, we'll get an introduction to **machine learning**: what it is and what it's used for. Our approach will be hands-on, using Python and the scikit-learn library.
+
+## Learning objectives
+
+- Define core machine learning concepts and identify appropriate use cases
+- Implement and evaluate basic machine learning models using scikit-learn
+- Create, modify, and share Jupyter Notebooks for data analysis
+
+## Resources
+
+### Slides: 
+_TBA_
+
+### Notebooks:
+
+| Notebook | 1-Click Notebook |
+|----------|-----------------|
+| [1.1-Simple_examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/1.1-Simple_examples.ipynb) - Constructs predictive models based on simple data sets. Provides hands-on introduction to basic ML ingredients and techniques. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()<br>[![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]() |
+| _More TBA_  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]() <br> [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()  
 
 
-## Slides
-
-## Machine Learning
-<!-- Commented as this slide deck is covered in the "Motivation_MedicalAI" slide deck
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vREHZA9OSvQa2fOGGDikHF_gDZz0tzgaARVmsjXq7xjFlwDDlkmMSDEvZ5Sa9GflbTybFJLQ3IqltjR/pub?start=false&loop=false&delayms=3000"><img src="assets/lab0-slides.png"></a>
--->
-
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vQN5LeGJ_lafM2zrZx5Fartv8IEVKn6oXbMIhVI-7V_J-8Lur5ZJaVm2zK9zpcuh5oD0u0JYq-UYMmy/pub?start=false&loop=false&delayms=60000"><img src="assets/Slide0-ML.png"></a>
-
-## Graphs and Networks
-
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vR0KosuGRHqFKR1X-LmggiR-6wdfFSdsYdIIfDIcXYQ6qg1wW0hqHrsWIQJCMqbRLM3ouCGoen--SEl/pub?start=false&loop=false&delayms=3000"><img src="assets/slide0-networks.png"></a>
-
-### Other resources on Graphs and Networks
-A. Lundervold \& the Medical AI Assistant: _Elements of graph theory and patient similarity networks (PSN) - A short introduction for ELMED219+BMED365_ [[PDF](./assets/ELMED219_BMED365_2024_PSN.pdf)] [[$\LaTeX$](https://www.overleaf.com/read/pccnktqbnswg#4f47e2)]
-
-For medical and biomedical students new to graph theory, the following online tutorials and resources provide a gentle introduction:
-
-- **Khan Academy Introduction to Graph Theory:** A beginner-friendly series covering basic concepts and applications. [Khan Academy Graph Theory](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/describing-graphs)
-    
-- **Graph Theory Tutorials by Sarada Herke:** A YouTube playlist offering visual and intuitive explanations of graph theory concepts. [Sarada Herke's Graph Theory Tutorials](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
-    
-- **Introduction to Graph Theory from University of Waterloo:** Detailed course notes suitable for those seeking a more academic approach. [University of Waterloo Graph Theory](https://www.cemc.uwaterloo.ca/events/mathcircles/2016-17/Winter/Senior_Mar22.pdf)
-
-<!-- Here's a short extra video that goes through a very similar notebook to the one we use in this lab: https://www.youtube.com/watch?v=OhxUgFNnj1U. You may want to watch this as well. -->
-
-## Jupyter notebooks
-
-:question: As Jupyter Notebook is quite new to many of you, you may want to skim through some tutorials. Here are two (also linked under "Getting Started" at MittUiB): 
-* https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
-* https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
-
-<hr>
+## Machine learning in Python
+We'll use Python, the most popular programming language for machine learning. The hands-on content is mostly based on [Jupyter Notebooks](https://jupyter.org/), which lets us mix code, text, results and documentation in a single document. We'll also use the standard data science and machine learning libraries in Python, such as [Pandas](https://pandas.pydata.org/) and [scikit-learn](https://scikit-learn.org/stable/).
 
 
+## External resources
 
-| Notebook    |      1-Click Notebook     
-|:----------|------|
-|  [Lab0-00-jupyter-notebook-markdown-basics.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-00-jupyter-notebook-markdown-basics.ipynb) <br> Jupyter notebooks and Markdown cells! In this notebook, we'll present non-coding cells in Jupyter notebooks to document and display information associated with coding cells. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-00-jupyter-notebook-markdown-basics.ipynb)<br>
-|  [Lab0-01-simple-examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-01-simple-examples.ipynb)  <br>Constructs predictive models based on some simple data sets. Provides a hands-on introduction to some basic ingredients and techniques in ML. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-01-simple-examples.ipynb)<br>
-|  [Lab0-02-networkx-tutorial.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-02-networkx-tutorial.ipynb)  <br>You can use NetworkX to construct and draw graphs that are undirected or directed, with weighted or unweighted edges. A large collection of functions to analyze graphs is available. This tutorial takes you through a few basic examples and exercises. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-02-networkx-tutorial.ipynb)<br>
-|  [Lab0-03-patient-similarity-networks.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-03-patient-similarity-networks.ipynb)  <br>Rather, the famous  IRIS flower dataset with 4 different measurements from each of the 150 flowers - construction and exploring the "IRIS Flower Similarity Network". | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-03-patient-similarity-networks.ipynb)<br>
+### Machine Learning
+* [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml) (Beginner, 20 min) - Google's introduction to basic ML concepts.
+* [Intro to machine learning](https://www.kaggle.com/learn/intro-to-machine-learning) (Beginner, 3 hours) - Kaggle's introduction to machine learning 
+* [Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn) (Intermediate, 4 hours) - Interactive introduction to ML using scikit-learn.
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) (Intermediate, 15 hours) - Google's practical introduction to machine learning.
+* [Problem Framing](https://developers.google.com/machine-learning/problem-framing) (Intermediate, 45 minutes) - Google's take on how to determine if ML is a good approach for a problem and how to outline an ML solution.
 
-</p>
+### Python for data science
+* [Intermediate Python](https://app.datacamp.com/learn/courses/intermediate-python-for-data-science) (Beginner, 4 hours) - DataCamp's data science-oriented introduction to Python.
+* [Pandas](https://www.kaggle.com/learn/pandas) (Beginner, 4 hours) - Kaggle's introduction to Pandas.
 
-
-
-## Your turn! 
-
-Spend some time playing around with the provided examples. You'll find some questions for you to investigate in the notebook. If you're already familiar with machine learning, you can try your hand at more advanced examples or, even better, help out other less experienced team members. Try out the things you learn in the DataCamp courses by modifying and extending the notebook used in this Lab.
-
-
-![img](../assets/GPT-MedAI.png)<br>
-If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus), you can also try out the the [**Medical AI Assistant (UiBmed - ELMED219 & BMED365)**](https://chat.openai.com/g/g-d90dfN17H-medical-ai-assistant-uibmed-elmed219-bmed365) and see if you can get it to answer some of your questions.
+### Jupyter Notebooks
+Here are two resources that will help you get started with Jupyter Notebooks:
+* Jeremy Howard's [Jupyter Notebook 101](https://www.kaggle.com/code/jhoward/jupyter-notebook-101).
+* Datacamp's [How to Use Jupyter Notebooks: The Ultimate Guide](https://www.datacamp.com/tutorial/tutorial-jupyter-notebook)
