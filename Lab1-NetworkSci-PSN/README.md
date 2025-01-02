@@ -65,4 +65,4 @@ As Jupyter Notebook is quite new to many of you, you may want to skim through so
 
 ### Your turn! 
 
-Spend some time playing around with the provided examples. You'll find some questions for you to investigate in the notebook. If you're already familiar with graphs and networks, you can try your hand at more advanced examples or, even better, help out other less experienced team members. 
+Spend some time playing around with the provided examples. You'll find some questions for you to investigate in the notebooks. If you're already familiar with graphs and networks, you can try your hand at more advanced examples or, even better, help out other less experienced team members. 
