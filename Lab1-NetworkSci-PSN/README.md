@@ -7,23 +7,28 @@ This lab will give a quick example-based introduction to basic ideas in **graph 
 
 If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus), you can also try out the the [**Medical AI Assistant (UiBmed - ELMED219 & BMED365)**](https://chat.openai.com/g/g-d90dfN17H-medical-ai-assistant-uibmed-elmed219-bmed365) and see if you can get it to answer some of your questions related to graph theory, network science and patient similarity network, cfr.[[here](./assets/ELMED219_BMED365_2024_PSN.pdf)].
 
+- _Hva er grafteori og hvordan defineres en graf? (answer in English, please)_
+- _Hva menes med "nettverk-vitenskap"?_
+- _Hva karakteriserer et "patient similarity network" og hva kan det brukes til?_
 
-## Slides
+( compare the response to these prompts using the UiB-internal **https://chat.uib.no** )
+
+### Slides
 
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vRvl54T7fBoOQaKCHOUcDDxuB4jDWyjw5tQMv3x5LYL7XVfB2hKGJZar1k3jrEUupYmQYOaMqyJ6MmF/pub?start=false&loop=false&delayms=3000"><img src="assets/Lab1-slide0.png"></a>
 
 
 
-## Notebooks
+### Notebooks
 
 
 
 | Notebook    |      1-Click Notebook     
 |:----------|------|
 |  [01-networkx-tutorial.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/01-networkx-tutorial.ipynb)  <br>You can use NetworkX to construct and draw graphs that are undirected or directed, with weighted or unweighted edges. A large collection of functions to analyze graphs is available. This tutorial takes you through a few basic examples and exercises | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/01-networkx-tutorial.ipynb)<br>
-|  [02-patient-similarity-networks-iris.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-03-patient-similarity-networks.ipynb)  <br>Rather than patient-derived data, we are using the famous  IRIS flower dataset with 4 different measurements from each of the 150 flowers - construction and exploring the "IRIS Flower Similarity Network" | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-03-patient-similarity-networks.ipynb)<br>
-|  [03-patient-similarity-networks-ibs-brain.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-03-patient-similarity-networks.ipynb)  <br>Patient Similarity Networks using data from the paper _Brain morphometry and cognitive features in prediction of irritable bowel syndrome_ [[preprint](https://www.preprints.org/manuscript/202412.2149/v1)] (https://github.com/arvidl/ibs-brain)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219/blob/main/Lab0-ML/Lab0-03-patient-similarity-networks.ipynb)<br>
+|  [02-patient-similarity-networks-iris.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/02-patient-similarity-networks-iris.ipynb)  <br>Rather than patient-derived data, we are using the famous  IRIS flower dataset with 4 different measurements from each of the 150 flowers - construction and exploring the "IRIS Flower Similarity Network" | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/02-patient-similarity-networks-iris.ipynb)<br>
+|  [03-patient-similarity-networks-ibs-brain.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/03-patient-similarity-networks-ibs-brain.ipynb)  <br>Patient Similarity Networks using data from the paper _Brain morphometry and cognitive features in prediction of irritable bowel syndrome_ [[preprint](https://www.preprints.org/manuscript/202412.2149/v1)] (https://github.com/arvidl/ibs-brain)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/03-patient-similarity-networks-ibs-brain.ipynb)<br>
 
 </p>
 
