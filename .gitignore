@@ -16,6 +16,20 @@ Lab0-ML/Lab0-begin-python-pandas-medim/.vscode
 # Avoid interference with the ELMED219-2025 repo when using private notebooks etc. for experimentation
 my_stuff/
 
+# Ignore saved models
+test.pkl
+logs.log
+saved_model.pkl
+
+# Ignore pycaret stuff
+test.py
+catboost_info
+mlruns
+flagged
+.gradio
+
+
+
 # Old stuff
 2024-Project
 2024-Lab0-ML
