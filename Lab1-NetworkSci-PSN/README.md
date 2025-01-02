@@ -11,7 +11,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _Hva menes med "nettverk-vitenskap"?_
 - _Hva karakteriserer et "patient similarity network" og hva kan det brukes til?_
 
-( compare the response to these prompts using the UiB-internal **https://chat.uib.no** )
+( compare the responses to the prompts above using the UiB-internal **https://chat.uib.no** )
 
 ### Slides
 
@@ -54,7 +54,7 @@ For medical and biomedical students new to graph theory, the following online tu
     
 - **Graph Theory Tutorials by Sarada Herke:** A YouTube playlist offering visual and intuitive explanations of graph theory concepts. [Sarada Herke's Graph Theory Tutorials](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
     
-- **Introduction to Graph Theory from University of Waterloo:** Detailed course notes suitable for those seeking a more academic approach. [University of Waterloo Graph Theory](https://www.cemc.uwaterloo.ca/events/mathcircles/2016-17/Winter/Senior_Mar22.pdf)
+- **Introduction to Graph Theory for Medical Students:** Notes generated 2025-01-02 by Gemini Advanced 1.5 Pro with Deep Research  [[link](https://docs.google.com/document/d/1Hy68-fjs1EJV3LL03qYusYydyXP7IAwsUnIYlaC9MdE/edit?usp=sharing)] 
 
 
 As Jupyter Notebook is quite new to many of you, you may want to skim through some tutorials. Here are two: 
