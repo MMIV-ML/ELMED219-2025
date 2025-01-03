@@ -18,7 +18,8 @@ _TBA_
 | Notebook | 1-Click Notebook |
 |:----------|-----------------|
 | [01-Simple_examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/01-Simple_examples.ipynb) <br> Constructs predictive models based on simple data sets. Provides hands-on introduction to basic ML ingredients and techniques. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/01-Simple_examples.ipynb) |
-| [02-PyCaret.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/02-PyCaret.ipynb) <br> Steps through entire ML workflows using PyCaret | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/02-PyCaret.ipynb)  
+| [02-Binary_classification.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/02-Binary_classification.ipynb) <br> This notebook goes through some core concepts of _classification_ in machine learning. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/02-Binary_classification.ipynb)  
+| [03-PyCaret.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/03-PyCaret.ipynb) <br> Steps through entire ML workflows using PyCaret | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/03-PyCaret.ipynb)  
 
 
 ## Machine learning in Python
