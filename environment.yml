@@ -35,8 +35,9 @@ dependencies:
     - networkx
     - dipy
     - openpyxl
-    - pygraphviz  # Lab0-02-network-tutorial
-    - pydot       # Lab0-02-network-tutorial
+    - pygraphviz     # Lab1
+    - pydot          # Lab1
+    - python-louvain # Lab1
 
 ## Configure the Conda-environment elmed219-2025 for data analysis, computational imaging and modeling (only once):
 # conda env create -f environment.yml
