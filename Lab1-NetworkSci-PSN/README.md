@@ -11,7 +11,7 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 - _Hva menes med "nettverk-vitenskap"?_
 - _Hva karakteriserer et "patient similarity network" og hva kan det brukes til?_
 
-( compare the response to these prompts using the UiB-internal **https://chat.uib.no** )
+( compare the responses to the prompts above using the UiB-internal **https://chat.uib.no** )
 
 ### Slides
 
@@ -28,17 +28,17 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 |:----------|------|
 |  [01-networkx-tutorial.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/01-networkx-tutorial.ipynb)  <br>You can use NetworkX to construct and draw graphs that are undirected or directed, with weighted or unweighted edges. A large collection of functions to analyze graphs is available. This tutorial takes you through a few basic examples and exercises | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/01-networkx-tutorial.ipynb)<br>
 |  [02-patient-similarity-networks-iris.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/02-patient-similarity-networks-iris.ipynb)  <br>Rather than patient-derived data, we are using the famous  IRIS flower dataset with 4 different measurements from each of the 150 flowers - construction and exploring the "IRIS Flower Similarity Network" | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/02-patient-similarity-networks-iris.ipynb)<br>
-|  [03-patient-similarity-networks-ibs-brain.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/03-patient-similarity-networks-ibs-brain.ipynb)  <br>Patient Similarity Networks using data from the paper _Brain morphometry and cognitive features in prediction of irritable bowel syndrome_ [[preprint](https://www.preprints.org/manuscript/202412.2149/v1)] (https://github.com/arvidl/ibs-brain)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/03-patient-similarity-networks-ibs-brain.ipynb)<br>
+|  [03-patient-similarity-networks-ibs-brain.ipynb](./notebooks/03-patient-similarity-networks-ibs-brain.ipynb)  <br>Patient Similarity Networks using data from the paper _Brain morphometry and cognitive features in prediction of irritable bowel syndrome_ [[preprint](https://www.preprints.org/manuscript/202412.2149/v1)] (https://github.com/arvidl/ibs-brain)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/notebooks/03-patient-similarity-networks-ibs-brain.ipynb)<br>
 
 </p>
 
 #### See also the [GraphTheory-and-ComplexNetworks](./GraphTheory-and-ComplexNetworks/README.md) notebooks:
-- [1-Introduction.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/1-Introduction.ipynb)
-- [2-Fundamentals.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/2-Fundamentals.ipynb) 
-- [3-Extensions.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/3-Extensions.ipynb) 
-- [4-Network-topology.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/4-Network-topology.ipynb) 
-- [5-Network-analysis-centrality.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/5-Network-analysis-centrality.ipynb) 
-- [6-Network-analysis-across-time.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/6-Network-analysis-across-time.ipynb) 
+- [1-Introduction.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/1-Introduction.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/GraphTheory-and-ComplexNetworks/notebooks/1-Introduction.ipynb) 
+- [2-Fundamentals.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/2-Fundamentals.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/GraphTheory-and-ComplexNetworks/notebooks/2-Fundamentals.ipynb)
+- [3-Extensions.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/3-Extensions.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/GraphTheory-and-ComplexNetworks/notebooks/3-Extensions.ipynb)
+- [4-Network-topology.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/4-Network-topology.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/GraphTheory-and-ComplexNetworks/notebooks/4-Network-topology.ipynb)
+- [5-Network-analysis-centrality.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/5-Network-analysis-centrality.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/GraphTheory-and-ComplexNetworks/notebooks/5-Network-analysis-centrality.ipynb)
+- [6-Network-analysis-across-time.ipynb](./GraphTheory-and-ComplexNetworks/notebooks/6-Network-analysis-across-time.ipynb) [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab1-NetworkSci-PSN/GraphTheory-and-ComplexNetworks/notebooks/6-Network-analysis-across-time.ipynb)
 
 
 
@@ -54,8 +54,7 @@ For medical and biomedical students new to graph theory, the following online tu
     
 - **Graph Theory Tutorials by Sarada Herke:** A YouTube playlist offering visual and intuitive explanations of graph theory concepts. [Sarada Herke's Graph Theory Tutorials](https://www.youtube.com/playlist?list=PLoJC20gNfC2gmT_5WgwYwGMvgCjYVsIQg)
     
-- **Introduction to Graph Theory from University of Waterloo:** Detailed course notes suitable for those seeking a more academic approach. [University of Waterloo Graph Theory](https://www.cemc.uwaterloo.ca/events/mathcircles/2016-17/Winter/Senior_Mar22.pdf)
-
+- **Introduction to Graph Theory for Medical Students:** [Notes](https://docs.google.com/document/d/1Hy68-fjs1EJV3LL03qYusYydyXP7IAwsUnIYlaC9MdE/edit?usp=sharing) generated by Gemini Advanced 1.5 Pro with [Deep Research](https://blog.google/products/gemini/google-gemini-deep-research)
 
 As Jupyter Notebook is quite new to many of you, you may want to skim through some tutorials. Here are two: 
 * https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html
@@ -66,4 +65,4 @@ As Jupyter Notebook is quite new to many of you, you may want to skim through so
 
 ### Your turn! 
 
-Spend some time playing around with the provided examples. You'll find some questions for you to investigate in the notebook. If you're already familiar with graphs and networks, you can try your hand at more advanced examples or, even better, help out other less experienced team members. 
+Spend some time playing around with the provided examples. You'll find some questions for you to investigate in the notebooks. If you're already familiar with graphs and networks, you can try your hand at more advanced examples or, even better, help out other less experienced team members. 
