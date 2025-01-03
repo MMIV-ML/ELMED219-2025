@@ -16,9 +16,9 @@ _TBA_
 ### Notebooks:
 
 | Notebook | 1-Click Notebook |
-|----------|-----------------|
-| [1.1-Simple_examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/1.1-Simple_examples.ipynb) - Constructs predictive models based on simple data sets. Provides hands-on introduction to basic ML ingredients and techniques. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]()<br>[![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]() |
-| [2.1-PyCaret.ipynb]()  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)]() <br> [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()  
+|:----------|-----------------|
+| [01-Simple_examples.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/01-Simple_examples.ipynb) <br> Constructs predictive models based on simple data sets. Provides hands-on introduction to basic ML ingredients and techniques. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/01-Simple_examples.ipynb) |
+| [02-PyCaret.ipynb](https://nbviewer.org/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/02-PyCaret.ipynb) <br> Steps through entire ML workflows using PyCaret | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/ELMED219-2025/blob/main/Lab0-ML/notebooks/02-PyCaret.ipynb)  
 
 
 ## Machine learning in Python
