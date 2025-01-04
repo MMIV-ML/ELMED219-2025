@@ -1,10 +1,68 @@
-# ELMED219/BMED365: Course project
+# ELMED219/BMED365: AI in healthcare innovation project
 
-## Introduction
-This innovation project in ELMED219/BMED365 (2025) focuses on developing a "Proof of Concept" (PoC) for an innovative software solution in medicine/health using artificial intelligence (AI) and large language models (LLMs). A PoC aims to validate the feasibility of an idea by creating a functional but limited prototype.
+## Overview
+Welcome to the course project for ELMED219! This project challenges you to explore the intersection of artificial intelligence and healthcare through either deep research or hands-on innovation. Working in groups, you'll investigate how AI, particularly large language models (LLMs), can transform medical practice and healthcare delivery.
 
-## Project goals
-The project aims to provide students with experience across the entire innovation process, from idea generation and rapid prototyping to final presentation, all accelerated by AI tools. Students will translate AI solutions into practical and impactful use cases in a medical context while considering technical feasibility and ethical responsibility. In addition to developing a simple "business case" that assesses the solution's potential value, feasibility, and market opportunities, students will also explore the ethical dimensions of AI, including bias, patient privacy, and adherence to medical regulations.
+## Project tracks
+
+The course offers two paths for exploring AI in healthcare. 
+
+### Research track
+The Research Track focuses on conducting an in-depth analysis of how AI can address specific healthcare challenges. You'll use AI tools throughout your research process to develop a comprehensive understanding of your chosen topic.
+
+Key elements:
+* Thorough investigation of current developments and state-of-the-art
+* Critical analysis of potential impacts and implementation challenges
+* Extensive use of AI tools for research, analysis, and writing
+* Final report demonstrating scholarly rigor and insight
+* Research presentation focusing on:
+
+   * Methodology and findings
+   * Critical analysis and implications
+   * Recommendations for implementation
+   * Future research directions
+
+### Innovation track
+The Innovation Track takes a hands-on approach by developing a working Proof of Concept (PoC). You'll create a practical solution while experiencing how AI can accelerate healthcare innovation.
+Key elements:
+
+* Development of a working prototype
+* Creation of a business case
+* Use of AI tools throughout development, from ideation to implementation
+* Final report documenting technical and business aspects
+* Startup pitch presentation including:
+   * Problem and solution demonstration
+   * Market analysis and value proposition
+   * Business model and growth strategy
+   * Live prototype demonstration
+   * Future development roadmap
+
+This track suits students eager to experience the complete innovation process, from idea to implementation, while learning how AI can transform healthcare entrepreneurship.
+
+## Group formation
+Students will work in teams of 3+ people, combining diverse perspectives and skills. We encourage groups to include members with varied backgrounds, as this diversity enriches the project outcomes. While technical expertise is valuable, it's not required for all members - we'll ensure groups have balanced capabilities by distributing students with programming experience across teams.
+
+## Project ideas
+Your project can address any healthcare challenge where AI could make a meaningful impact. Some promising areas include patient education materials generation, medical report simplification, diagnostic support systems, and clinical workflow optimization. We encourage you to think creatively about healthcare challenges you've encountered or observed. The course materials provide detailed examples of potential projects, but you're welcome to propose your own ideas within the project framework.
+
+## Deliverables
+All groups will produce a comprehensive report documenting their work. For Research Track participants, this includes a detailed analysis of the chosen AI application, its potential impact, and implementation considerations. Innovation Track participants will additionally deliver a working prototype and present their business case to a panel of academic experts and potential stakeholders. Both tracks should incorporate ethical considerations and demonstrate thoughtful use of AI tools throughout the project.
+
+Use the following [report template](https://docs.google.com/document/d/1iWcnGYE3kH_wKugnC_CT1CZWXKWXyOIKXLf_xUygfI4/edit?usp=sharing)
+
+
+## Getting started
+1. Form your group
+2. Choose your track
+3. Select a project focus
+4. Share your ideas and plans on Discord
+5. Begin project documentation using the [report template](https://docs.google.com/document/d/1iWcnGYE3kH_wKugnC_CT1CZWXKWXyOIKXLf_xUygfI4/edit?usp=sharing)
+
+
+
+Remember: This project is your opportunity to dive deep into the future of healthcare through AI innovation. Think creatively, work collaboratively, and don't hesitate to seek guidance when needed.
+
+<!-->
 
 ## Possible project ideas
 Here are some ideas for inspiration, but students are free to choose their projects within the given framework:
@@ -48,8 +106,4 @@ Here are some ideas for inspiration, but students are free to choose their proje
 13. **Multimodal diagnostic aid**  
     Build a PoC combining LLMs with image analysis (e.g., pre-trained models) to aid in diagnosis. For example, an LLM could analyze radiology reports alongside medical images to provide comprehensive insights. Alternatively, focus on text-image fusion for diagnosing common skin conditions using public datasets and pre-trained image models.
 
-## Expected outcome
-Students will deliver a report describing the project, including a working PoC of the chosen solution and a simple "business case." They will also present their project to a panel of academic experts and potential stakeholders.
-
-## Resources
-You will be provided with relevant resources, including access to AI tools, datasets (where applicable), and guidance on developing business cases. Students are encouraged to use online resources such as Overleaf for collaborative report writing using LaTeX. Numerous online resources are available regarding the ethics of AI in healthcare, which may serve as an inspirational starting point.
+-->
