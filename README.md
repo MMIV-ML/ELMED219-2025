@@ -69,7 +69,7 @@ All course materials are openly available in this GitHub repository. See also [B
 | 10:15-14:00<br>BB Hist 1    | Information [About the course](https://docs.google.com/presentation/d/e/2PACX-1vRs-_1Tr_iXzIfy8207VlKuBjr_hCIpQqrI65YM9Q6TcQMUt4R-4aPVPzfL6fwDkmB8UkcPyfyiL9TU/pub?start=false&loop=false&delayms=3000) <br> Motivation lectures<br>&nbsp;- [Computational medicine](https://docs.google.com/presentation/d/e/2PACX-1vQdrVW4qt8doyqbxRiZwZNQmGUN1qfML7wP-jYxp4aOJI5B6g8wn4HYNjcJ18w93IUzQBg4yMngsbNl/pub?start=false&loop=false&delayms=3000) <br>&nbsp;- [Medical AI]()  <br> &nbsp;- [SW-installation](./setup.md)<br> &nbsp;- [Tools](https://docs.google.com/presentation/d/e/2PACX-1vTodZumHibZQgoZVaGnSn6K6Swisbz9NA2PHIdLvp95vByPLrdYbv23CDM2B1HLU9tKC8ofhDzPeetg/pub?start=false&loop=false&delayms=3000) 
 |                             | *Arvid and Alexander Lundervold*                                                                     |                                |
 | **Wed, Jan 8**    |                                                                                        |
-| 14:15-16:00<br>BB Hist 1    | AI-driven innovation in healthcare & [About the course project](./Project)                |
+| 14:15-16:00<br>BB Hist 1    | [AI-driven innovation in healthcare](AI-innovation.md) & [About the course project](./Project)                |
 |                             | *Arvid and Alexander Lundervold*                                                                     |                                |
 | **Fri, Jan 10**    |                                                                                                 |
 | 10:15-11:30<br>BB Hist 1    | [LAB 0: Introduction to theory and tools for machine learning](./Lab0-ML)        |
@@ -77,7 +77,7 @@ All course materials are openly available in this GitHub repository. See also [B
 | 11:45-13:00<br>BB Hist 1    | [LAB 1: Network science and patient similarity networks (PSN)](./Lab1-NetworkSci-PSN)                                                                                         |
 |                             | *Arvid Lundervold*                                                                     |
 | **WEEK 3:<br>Tue, Jan 14**    |                                                                                       |
-| 09:15-13:00<br>BB Hist 1    | AI-assisted innovation & Python programming; recap of Lab0, Lab1     |
+| 09:15-13:00<br>BB Hist 1    | [AI-assisted innovation cont.](AI-innovation.md) & Python programming; recap of Lab0, Lab1     |
 |                             |  *Arvid and Alexander Lundervold*                                                                     |
 | **Fri, Jan 17**   |                                                                                                  |
 | 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
