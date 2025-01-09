@@ -3,7 +3,8 @@
 ## Session Overview
 This session will highlight how modern AI tools can dramatically accelerate the development of innovative healthcare solutions. This session will have a mix of theory and practical demonstration to show you how to move rapidly from idea to prototype. 
 
-
+# Resources
+* [Slides from the lecture, Jan 8th](https://www.dropbox.com/scl/fi/wjwxebe2hs2seuacjipk9/ELMED219-2025-2-AI_Innovation.pdf?rlkey=pvo8jtiv0rfq3gyxc4fhxzoj1&dl=1)
 
 ## Learning objectives
 
