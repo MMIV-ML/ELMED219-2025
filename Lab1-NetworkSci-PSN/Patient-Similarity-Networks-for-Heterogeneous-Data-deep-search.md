@@ -1,4 +1,4 @@
-_Please provide the most resent research on the use of Patient Similarity Networks for integrating heterogeneous data in order to identify patient subtypes and to predict outcome (classification) of previously unseen new patients._  <br>(Gemini Advanced 1.5 Pro with Deep Research. January 9, 2025)
+_Please provide the most resent research on the use of Patient Similarity Networks for integrating heterogeneous data in order to identify patient subtypes and to predict outcome (classification) of previously unseen new patients._  <br>(Gemini Advanced 1.5 Pro with Deep Research. January 9, 2025) [[link](https://g.co/gemini/share/5b58353dc5c3)]
 
 # **Patient Similarity Networks for Integrating Heterogeneous Data to Identify Patient Subtypes and Predict Outcomes**
 
