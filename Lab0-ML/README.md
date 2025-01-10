@@ -11,7 +11,7 @@ In this first lab, we'll get an introduction to **machine learning**: what it is
 ## Resources
 
 ### Slides: 
-_TBA_
+[Lab0 introduction](https://docs.google.com/presentation/d/e/2PACX-1vR2JFF2ncOpbWZKyx_98rNM8SLS42ZT2SqAHdkt38aKxWecJbdJHm1JjL4QIvw-92tU6VE2m4bmLDa-/pub?start=false&loop=false&delayms=3000)
 
 ### Notebooks:
 
