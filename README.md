@@ -82,8 +82,7 @@ All course materials are openly available in this GitHub repository. See also [B
 | **Fri, Jan 17**   |                                                                                                  |
 | 08:15-13:00<br>BB Hist 1    |  [Lab 2: Deep learning](./Lab2-DL)                                                     |
 |                             | *Arvid Lundervold*                                        |
-| **WEEK 4:<br>Team project**  |  Joint with BMED365 - Working on the course project in interdisciplinary teams (during the week)  |
-| **Tue, Jan 21**   |                                                                                        |
+| **WEEK 4:<br>Tue, Jan 21**   |   |                                                                                   |
 | 09:15-12:00<br>BB Hist 1    | [Lab 3: Generative AI and Large Language Models](.)                           |
 |                             | *Alexander Lundervold*                                                                     |
 | 13:15-16:00<br>BB Hist 1    | Meet-up for team project brainstorming and coaching                                    |
