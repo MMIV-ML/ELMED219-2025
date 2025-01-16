@@ -2,7 +2,7 @@
 
 This lab is part of our journey through the concepts and applications of deep learning in medicine and biomedical research.<br>
 Some of the material has inspiration from and links to the work of great educators and researchers in the field, e.g. [Grant Sanderson](https://www.3blue1brown.com/about), [Daniel Bourke](https://www.mrdbourke.com/about), and [Andrej Karpathy](https://karpathy.ai)<br>
-_update: 2024-12-31_
+_update: 2025-01-15_
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
 <img src="../assets/GPT-MedAI.png" width="600"><br>
@@ -14,6 +14,25 @@ If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plu
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vRyU9n7YY6vI6B0Al2S0W9rTt_l9CPvJ-ISgVsNa_b_5y6G7JTsLVYnZeejdakNmXrx7WMFoU8d7TEY/pub?start=false&loop=false&delayms=3000"><img src="./assets/Lab2_slide0_2025.png"></a>
 
 -----
+
+### Notebooks
+
+
+
+| Notebook    |      1-Click Notebook     
+|:----------|------|
+|  [00a-CNN-basics.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/00a-CNN-basics.ipynb)  <br>A short introduction to **CNNs** for medical students - an AI-assisted notebook prompted and created in "25 minutes" <br>with [cursor](https://www.cursor.com) and [claude-3.5-sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/00a-CNN-basics.ipynb)<br>
+|  [00b-Pytorch-Lightning-basics.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/00b-Pytorch-Lightning-basics.ipynb)  <br>A short introduction to **Pytorch** and **Lightning** for medical students - an AI-assisted notebook prompted and created in "25 minutes" <br>with [cursor](https://www.cursor.com) and [claude-3.5-sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/00b-Pytorch-Lightning-basics.ipynb)<br>
+|  [01-MNIST-collect-organize.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/01-MNIST-collect-organize.ipynb)  <br>MNIST data collection, inspection and organization. | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/01-MNIST-collect-organize.ipynb)<br>
+|  [02-MNIST-Classification-with-Random-Forest.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/02-MNIST-Classification-with-Random-Forest.ipynb)  <br>MNIST classification using Random Forest (flattening the 28x28 images to 1X784 pixel value vectors). | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/02-MNIST-Classification-with-Random-Forest.ipynb)<br>
+|  [03-MNIST-Classification-with-MLP.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/03-MNIST-Classification-with-MLP.ipynb)  <br>MNIST classification using a multilayer perceptron, MLP with 784 neurons in the input layer (flattening the 28x28 images to 1X784 pixel arrays), 2 hidden layers, and 10 neurons (one for each digit 0,...,9) in the output layer.  | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/03-MNIST-Classification-with-MLP.ipynb)<br>
+|  [04-MNIST-Classifcation-with-CNN.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/04-MNIST-Classification-with-CNN.ipynb)  <br>MNIST classification using a convolutional neural network, CNN.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/04-MNIST-Classifcation-with-CNN.ipynb)<br>
+|  [05-BrainTumor-Segmentation.ipynb]()  <br>Brain tumor segmentation from multiparametric MRI data.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/05-BrainTumor-Segmentation.ipynb)<br>
+|  [06-TabPFN-explore.ipynb](https://nbviewer.org/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/06-TabPFN-explore.ipynb)  <br>Exploring deep learning analysis of tabular data with TabPFN.| [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MMIV-ML/BMED365-2025/blob/main/Lab2-DL/notebooks/06-TabPFN-explore.ipynb)<br>
+
+
+
+</p>
 
 ## Learning motivations - watch these
 (in the order of duration ...)
