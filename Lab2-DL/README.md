@@ -2,7 +2,7 @@
 
 This lab is part of our journey through the concepts and applications of deep learning in medicine and biomedical research.<br>
 Some of the material has inspiration from and links to the work of great educators and researchers in the field, e.g. [Grant Sanderson](https://www.3blue1brown.com/about), [Daniel Bourke](https://www.mrdbourke.com/about), and [Andrej Karpathy](https://karpathy.ai)<br>
-_update: 2025-01-17_
+_update: 2025-01-19_
 
 <!-- ![img](../assets/GPT-MedAI.png)<br> -->
 <img src="../assets/GPT-MedAI.png" width="600"><br>
