@@ -9,7 +9,7 @@ _update: 2025-01-17_
 If you have a subscription to [ChatGPT Plus](https://openai.com/blog/chatgpt-plus), you can also try out the the [**Medical AI Assistant (UiBmed - ELMED219 & BMED365)**](https://chat.openai.com/g/g-d90dfN17H-medical-ai-assistant-uibmed-elmed219-bmed365) <br> [GPT](https://openai.com/blog/introducing-gpts) and see if you can get it to answer some of your questions. See also [_Q&A-in-the-wild_](./Q&A-in-the-wild.md)
 
 ## Slides 
-<in progress ...> you can also "listen to" the slides [[here](https://notebooklm.google.com/notebook/5fa7119d-546b-42c6-b6e8-bb0610d6e708/audio)] (Google NotebookML)
+<in progress ...> you can also "listen to" the slides [[here](https://notebooklm.google.com/notebook/5fa7119d-546b-42c6-b6e8-bb0610d6e708/audio)] (Google NotebookLM)
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vRUu4XSPSOL6nHyeIpbJATMKvu4lWcjosw5sWUG3iDlNWbHTK-6MRj3VfxepE9Vw2CDM25dikA8XFuU/pub?start=false&loop=false&delayms=3000"><img src="./assets/Lab2_slide0_2025.png"></a>
 
