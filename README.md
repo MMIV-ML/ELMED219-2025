@@ -93,7 +93,7 @@ All course materials are openly available in this GitHub repository. See also [B
 | **Thu, Jan 30**   |                                                                                        |
 | 16:00                       | Deadline for the Team Project Report - joint with BMED365 (hand in via MittUiB)        |
 |**Fri, Jan 31** | 
-||[**Home exam**](./Exam#readme): Duration: Expected workload $\aaprox$ 2 hours;  <br>Assignment is handed out: 31.01.2025, 11:00; <br>Submission deadline: 31.01.2025, 15:00; <br>Examination system: Inspera Digital exam
+||[**Home exam**](./Exam#readme): Duration: Expected workload $\approx$ 2 hours;  <br>Assignment is handed out: 31.01.2025, 11:00; <br>Submission deadline: 31.01.2025, 15:00; <br>Examination system: Inspera Digital exam
 
 
 
