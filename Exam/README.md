@@ -1,10 +1,10 @@
 # Exam Information
 
 
-This document provides important information about the exam for the ELMED219 course (last updated: 2024-12-16)
+This document provides important information about the exam for the ELMED219 course (last updated: 2024-12-28)
 
 ## Date and Time
-The digital home exam will take place on Friday Jan 31th 2025 13:00-15:00.
+The digital home exam (expected workload $\approx$2 hr) will take place on Friday Jan 31th 2025 11:00-15:00.
 
 ## Location and Preparation
 The digital home exam will take place in [Inspera](https://www.inspera.com). Please make sure you are able to login to [UiB/Inspera](https://vurdering.uib.no) at least 15 minutes before the scheduled start time (more details at https://www.uib.no/en/student/125772/preparing-exams). Note: In addition to preparing yourself academically, you must also remember to check that your computer and login are ready to use at the examination. This is your responsibility as a student.
